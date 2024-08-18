@@ -1,0 +1,19 @@
+
+.bg-custom
+{
+    background:red;
+}
+.navbar .nav-item .nav-link
+{
+    font-size:20px;
+    color:white;
+}
+.nav-custom .nav-item:hover .nav-link
+{
+    background:white;
+    color:black;
+    border-radius:10px;
+}
+.card-img-top{
+    
+}
